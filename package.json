@@ -1,0 +1,7 @@
+{
+  "name": "opengraph-images",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Joe Czarnecki <joe.czar@outlook.com>",
+  "license": "MIT"
+}
